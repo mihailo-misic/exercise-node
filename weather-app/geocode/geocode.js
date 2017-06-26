@@ -21,7 +21,6 @@ let geocodeAddress = (addrs, callback) => {
             });
         }
     });
-
 };
 
 module.exports = {
